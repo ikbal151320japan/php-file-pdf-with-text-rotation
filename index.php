@@ -46,7 +46,7 @@
                         </th>
                         <th rowspan='2'>Lastname</th>
                         <th rowspan='2'>
-                            <div class="rot" style="-webkit-transform: rotate(-90deg); position: relative;top: 0%;">Daffodil International University</div>
+                            <div class="rot" style="-webkit-transform: rotate(-90deg); position: relative;top: 0%;">DataHostITBD Limited</div>
                         </th>
                     </tr>
                     <tr>
